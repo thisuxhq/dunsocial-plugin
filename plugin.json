@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dunsocial-plugin",
+  "version": "1.0.0",
+  "description": "Schedule and publish social posts with OAuth, drafts, media, workspaces, and brand memory.",
+  "author": {
+    "name": "THISUX PRIVATE LIMITED",
+    "email": "support@dunsocial.com",
+    "url": "https://www.dunsocial.com"
+  },
+  "homepage": "https://www.dunsocial.com/mcp",
+  "repository": "https://github.com/thisuxhq/dunsocial-plugin",
+  "license": "MIT",
+  "keywords": ["dunsocial", "mcp", "social", "oauth"]
+}
